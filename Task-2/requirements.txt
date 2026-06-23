@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project uses only Python built-in functions.
+
+Python >= 3.0
